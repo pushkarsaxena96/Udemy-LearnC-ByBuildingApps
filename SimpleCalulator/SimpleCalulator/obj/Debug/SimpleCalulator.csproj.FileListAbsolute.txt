@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\bin\Debug\SimpleCalulator.exe.config
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\bin\Debug\SimpleCalulator.exe
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\bin\Debug\SimpleCalulator.pdb
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\obj\Debug\SimpleCalulator.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\obj\Debug\SimpleCalulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\obj\Debug\SimpleCalulator.exe
+C:\Users\Administrator\source\repos\SimpleCalulator\SimpleCalulator\obj\Debug\SimpleCalulator.pdb
